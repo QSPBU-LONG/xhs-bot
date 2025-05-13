@@ -1,0 +1,5 @@
+cookies.pkl
+bot.log
+__pycache__/
+*.pyc
+*.png
